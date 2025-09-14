@@ -17,6 +17,22 @@ The Cryptocurrency Analyzer allows users to:
 
 1. Clone the repository:
 
-```bash
+```
 https://github.com/harini-paramasivam/cryptocurrency_analyzer.git
+```
 
+2. Install dependencies:
+```
+pip install -r requirements.txt
+```
+
+## 🖥 Usage
+Run data analysis:
+```
+python scripts/analysis.py
+```
+
+Generate visualizations:
+```
+python scripts/visualization.py
+```
