@@ -29,10 +29,7 @@ pip install -r requirements.txt
 ## 🖥 Usage
 Run data analysis:
 ```
-python scripts/analysis.py
+streamlit run streamlit_app.py
 ```
 
-Generate visualizations:
-```
-python scripts/visualization.py
-```
+
