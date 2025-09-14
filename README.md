@@ -11,3 +11,11 @@ The Cryptocurrency Analyzer allows users to:
 📈 Analyze trends and market behavior
 
 📉 Generate visualizations & reports for actionable insights
+
+#⚡ Installation
+
+Clone the repository:
+
+git clone https://github.com/harini-paramasivam/cryptocurrency_analyzer.git
+cd cryptocurrency_analyzer
+
