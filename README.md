@@ -17,5 +17,6 @@ The Cryptocurrency Analyzer allows users to:
 
 1. Clone the repository:
 
-```bash git
+```bash
 https://github.com/harini-paramasivam/cryptocurrency_analyzer.git
+
