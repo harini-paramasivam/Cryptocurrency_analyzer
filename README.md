@@ -1,63 +1,13 @@
-Cryptocurrency Analyzer
+# 🚀 Cryptocurrency Analyzer
 
-A Python project to analyze and visualize cryptocurrency data.
-This project can be used to track trends, perform analysis, and generate reports on various cryptocurrencies.
+A Python project to analyze and visualize cryptocurrency data. Track trends, perform analysis, and generate insightful reports on various cryptocurrencies.
 
-Project Overview
+🔍 Project Overview
 
 The Cryptocurrency Analyzer allows users to:
 
-Collect and preprocess cryptocurrency data.
+📊 Collect & preprocess cryptocurrency data
 
-Analyze trends and market behavior.
+📈 Analyze trends and market behavior
 
-Generate visualizations and reports for better insights.
-
-Folder Structure
-cryptocurrency_analyzer/
-├── data/          # Datasets (CSV, JSON)
-├── scripts/       # Python scripts & notebooks
-│   ├── data_cleaning.py
-│   ├── analysis.py
-│   └── visualization.py
-├── models/        # Trained models (optional)
-├── results/       # Charts, outputs
-├── README.md
-├── requirements.txt
-└── .gitignore
-
-Installation
-
-Clone the repository:
-
-git clone https://github.com/harini-paramasivam/cryptocurrency_analyzer.git
-cd cryptocurrency_analyzer
-
-
-Install dependencies:
-
-pip install -r requirements.txt
-
-Usage
-
-Run data analysis:
-
-python scripts/analysis.py
-
-
-Run visualization:
-
-python scripts/visualization.py
-
-
-Modify scripts as needed for your own datasets or analysis.
-
-Contributing
-
-Feel free to submit issues or pull requests for improvements.
-
-Follow clean code practices and provide clear documentation for any new scripts.
-
-License
-
-MIT License
+📉 Generate visualizations & reports for actionable insights
