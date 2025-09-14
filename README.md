@@ -32,4 +32,9 @@ Run data analysis:
 streamlit run streamlit_app.py
 ```
 
+## 📄 License
+
+MIT License
+
+
 
