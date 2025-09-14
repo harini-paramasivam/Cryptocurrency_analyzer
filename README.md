@@ -11,4 +11,3 @@ The Cryptocurrency Analyzer allows users to:
 📈 Analyze trends and market behavior
 
 📉 Generate visualizations & reports for actionable insights
-
